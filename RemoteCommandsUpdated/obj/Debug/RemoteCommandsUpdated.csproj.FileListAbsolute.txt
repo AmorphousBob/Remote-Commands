@@ -1,0 +1,11 @@
+c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\bin\Debug\RemoteCommandsUpdated.dll
+c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\bin\Debug\RemoteCommandsUpdated.pdb
+c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\bin\Debug\Assembly-CSharp.dll
+c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\bin\Debug\Rocket.API.dll
+c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\bin\Debug\Rocket.Core.dll
+c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\bin\Debug\Rocket.Unturned.dll
+c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\bin\Debug\UnityEngine.dll
+c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\obj\Debug\RemoteCommandsUpdated.csprojResolveAssemblyReference.cache
+c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\obj\Debug\RemoteCommandsUpdated.dll
+c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\obj\Debug\RemoteCommandsUpdated.pdb
