@@ -9,3 +9,14 @@ c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUp
 c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\obj\Debug\RemoteCommandsUpdated.csprojResolveAssemblyReference.cache
 c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\obj\Debug\RemoteCommandsUpdated.dll
 c:\users\public\documents\documents\visual studio 2015\Projects\RemoteCommandsUpdated\RemoteCommandsUpdated\obj\Debug\RemoteCommandsUpdated.pdb
+C:\Users\Public\Documents\Documents\Plugin Dev Stuff\Remote-Commands\bin\Debug\RemoteCommandsUpdated.dll
+C:\Users\Public\Documents\Documents\Plugin Dev Stuff\Remote-Commands\bin\Debug\RemoteCommandsUpdated.pdb
+C:\Users\Public\Documents\Documents\Plugin Dev Stuff\Remote-Commands\obj\Debug\RemoteCommandsUpdated.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Documents\Plugin Dev Stuff\Remote-Commands\obj\Debug\RemoteCommandsUpdated.dll
+C:\Users\Public\Documents\Documents\Plugin Dev Stuff\Remote-Commands\obj\Debug\RemoteCommandsUpdated.pdb
+C:\Users\Public\Documents\Documents\Plugin Dev Stuff\Remote-Commands\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Public\Documents\Documents\Plugin Dev Stuff\Remote-Commands\bin\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Documents\Plugin Dev Stuff\Remote-Commands\bin\Debug\Rocket.API.dll
+C:\Users\Public\Documents\Documents\Plugin Dev Stuff\Remote-Commands\bin\Debug\Rocket.Core.dll
+C:\Users\Public\Documents\Documents\Plugin Dev Stuff\Remote-Commands\bin\Debug\Rocket.Unturned.dll
+C:\Users\Public\Documents\Documents\Plugin Dev Stuff\Remote-Commands\bin\Debug\UnityEngine.dll
