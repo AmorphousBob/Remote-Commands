@@ -1231,6 +1231,24 @@ namespace RemoteCommands
                             magazinedurability = 100;
                             ammo = 8;
                         }
+                        if (s == "381" || s.ToLower() == "20g" || s.ToLower() == "20 gauge" && changedmagazine == false)
+                        {
+                            //Masterkey Ammo  / 20 gauge
+                            changedmagazine = true;
+                            magazine1 = 125;
+                            magazine2 = 1;
+                            magazinedurability = 100;
+                            ammo = 2;
+                        }
+                        if (s == "1368" || s.ToLower() == "vonya magazine" || s.ToLower() == "vonya" && changedmagazine == false)
+                        {
+                            //Vonya Mag
+                            changedmagazine = true;
+                            magazine1 = 88;
+                            magazine2 = 5;
+                            magazinedurability = 100;
+                            ammo = 7;
+                        }
                         if (s == "347" || s.ToLower() == "arrow" && changedmagazine == false)
                         {
                             //Arrow
@@ -1240,15 +1258,42 @@ namespace RemoteCommands
                             magazinedurability = 100;
                             ammo = 1;
                         }
+                        if (s == "1209" || s.ToLower() == "explosive arrow"  && changedmagazine == false)
+                        {
+                            //Explosive Arrow
+                            changedmagazine = true;
+                            magazine1 = 185;
+                            magazine2 = 4;
+                            magazinedurability = 100;
+                            ammo = 1;
+                        }
+                        if (s == "1200" || s.ToLower() == "fragmentation" || s.ToLower() == "military fragmentation magazine" && changedmagazine == false)
+                        {
+                            //Fragmentation
+                            changedmagazine = true;
+                            magazine1 = 176;
+                            magazine2 = 4;
+                            magazinedurability = 100;
+                            ammo = 20;
+                        }
+                        if (s == "1177" || s.ToLower() == "tracer" || s.ToLower() == "military tracer magazine" && changedmagazine == false)
+                        {
+                            //Tracer
+                            changedmagazine = true;
+                            magazine1 = 153;
+                            magazine2 = 4;
+                            magazinedurability = 100;
+                            ammo = 20;
+                        }
                         /*    Magazine template               if (s == "" || s.ToLower() == "" || s.ToLower() == "" && changedmagazine == false)
-                                           {
-                                               //item
-                                               changedmagazine = true;
-                                               magazine1 = ;
-                                               magazine2 = ;
-                                               magazinedurability = 100;
-                                               ammo = ;
-                                           }*/
+                                                                   {
+                                                                       //item
+                                                                       changedmagazine = true;
+                                                                       magazine1 = ;
+                                                                       magazine2 = ;
+                                                                       magazinedurability = 100;
+                                                                       ammo = ;
+                                                                   }*/
                         //Sights
 
                         if (s == "1442" || s.ToLower() == "mk2 scope" && changedsight == false)
@@ -1293,6 +1338,21 @@ namespace RemoteCommands
                             sight1 = 21;
                             sight2 = 0;
                         }
+                        if (s == "148" || s.ToLower() == "chevron" || s.ToLower() == "chevron scope" && changedsight == false)
+                        {
+                            //Chevron
+                            changedsight = true;
+                            sight1 = 148;
+                            sight2 = 0;
+                        }
+                        if (s == "22" || s.ToLower() == "cross" || s.ToLower() == "cross scope" && changedsight == false)
+                        {
+                            //Cross Scope
+                            changedsight = true;
+                            sight1 = 22;
+                            sight2 = 0;
+                        }
+
                         /* Sight Template   if (s == "" || s.ToLower() == "" && changedsight == false)
                                             {
                                                 //item
