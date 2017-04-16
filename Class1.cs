@@ -887,6 +887,42 @@ namespace RemoteCommands
                     byte magazinedurability = Correct[17];
 
                     byte[] Changed = new byte[18];
+
+                    if (parameters.Length > 0)
+                    {
+                        if (parameters[0].ToLower() == "ammo:edit")
+                        {
+                           int ammoamount = 0;
+                           if (int.TryParse(parameters[1], out ammoamount) == true)
+                                {
+                                byte ammoamount1 = Convert.ToByte(ammoamount);
+                                ammo = ammoamount1;
+
+                                Changed[0] = sight1;
+                                Changed[1] = sight2;
+                                Changed[2] = tactical1;
+                                Changed[3] = tactical2;
+                                Changed[4] = grip1;
+                                Changed[5] = grip2;
+                                Changed[6] = barrel1;
+                                Changed[7] = barrel2;
+                                Changed[8] = magazine1;
+                                Changed[9] = magazine2;
+                                Changed[10] = ammo;
+                                Changed[11] = firemode;
+                                Changed[12] = something;
+                                Changed[13] = sightdurability;
+                                Changed[14] = tacticaldurability;
+                                Changed[15] = gripdurability;
+                                Changed[16] = barreldurability;
+                                Changed[17] = magazinedurability;
+
+                                currentWeapon.item.metadata = Changed;
+                                return;
+                            }   
+                        }
+                    }
+
                     foreach (string s in parameters)
                     {
                         //Grips
@@ -1335,6 +1371,7 @@ namespace RemoteCommands
                             currentWeapon.item.metadata = Changed;
                             return;
                         }
+                        
                     }
                     if (opammo == true)
                     {
